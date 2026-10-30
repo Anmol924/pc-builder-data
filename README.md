@@ -4,7 +4,7 @@ This repository dataset is intended for the CORA — Component Optimization & Re
 
 ## Files
 - PC_Builder_project_(DATA).csv
-- 
+
 ## Important data note
 The prices and several performance/specification values are illustrative demo values for academic development. They are not verified live retail prices or a guarantee of manufacturer compatibility. Verify product specifications against manufacturer documentation before using this system for an actual purchase.
 
