@@ -3,21 +3,8 @@
 This repository dataset is intended for the CORA — Component Optimization & Recommendation Assistant internship project.
 
 ## Files
-- cpus.csv
-- gpus.csv
-- motherboards.csv
-- rams.csv
-- psus.csv
-- storage.csv
-- coolers.csv
-- cabinets.csv
-- monitors.csv
-- keyboards.csv
-- mice.csv
-- headsets.csv
-- speakers.csv
-- webcams.csv
-
+- PC_Builder_project_(DATA).csv
+- 
 ## Important data note
 The prices and several performance/specification values are illustrative demo values for academic development. They are not verified live retail prices or a guarantee of manufacturer compatibility. Verify product specifications against manufacturer documentation before using this system for an actual purchase.
 
