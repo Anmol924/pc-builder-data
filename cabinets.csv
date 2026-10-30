@@ -1,5 +1,0 @@
-case_id,brand,name,supported_form_factors,max_gpu_length,max_cooler_height,price
-801,Ant Esports,ICE-110,"ATX,mATX,ITX",300,160,2800
-802,Corsair,4000D Airflow,"ATX,mATX,ITX",360,170,8500
-803,NZXT,H5 Flow,"ATX,mATX,ITX",365,165,7500
-804,Cooler Master,Q300L,"mATX,ITX",360,159,4200
