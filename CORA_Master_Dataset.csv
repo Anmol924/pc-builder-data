@@ -1,0 +1,74 @@
+category,component_id,brand,name,price,socket,perf_score,power_draw,length_mm,ram_gen,form_factor,capacity_gb,speed_mhz,wattage,type,supported_sockets,tdp_capacity,height_mm,supported_form_factors,max_gpu_length,max_cooler_height,resolution,refresh_rate,screen_size,connection
+CPU,101,Intel,Core i3-12100F,7500,LGA1700,55.0,89.0,,,,,,,,,,,,,,,,,
+CPU,102,Intel,Core i5-12400F,10500,LGA1700,72.0,117.0,,,,,,,,,,,,,,,,,
+CPU,103,Intel,Core i5-13400F,18500,LGA1700,82.0,148.0,,,,,,,,,,,,,,,,,
+CPU,104,Intel,Core i7-13700K,34500,LGA1700,94.0,253.0,,,,,,,,,,,,,,,,,
+CPU,105,AMD,Ryzen 5 5600X,12500,AM4,68.0,76.0,,,,,,,,,,,,,,,,,
+CPU,106,AMD,Ryzen 7 5700X,15500,AM4,75.0,88.0,,,,,,,,,,,,,,,,,
+CPU,107,AMD,Ryzen 5 7600X,19500,AM5,84.0,142.0,,,,,,,,,,,,,,,,,
+CPU,108,AMD,Ryzen 7 7800X3D,36500,AM5,98.0,120.0,,,,,,,,,,,,,,,,,
+CPU,109,AMD,Ryzen 9 7950X,52000,AM5,99.0,230.0,,,,,,,,,,,,,,,,,
+GPU,201,NVIDIA,GeForce GTX 1650,12500,,35.0,75.0,170.0,,,,,,,,,,,,,,,,
+GPU,202,AMD,Radeon RX 6500 XT,14500,,42.0,107.0,190.0,,,,,,,,,,,,,,,,
+GPU,203,NVIDIA,GeForce RTX 3050,18500,,52.0,130.0,242.0,,,,,,,,,,,,,,,,
+GPU,204,AMD,Radeon RX 6600,21000,,62.0,132.0,200.0,,,,,,,,,,,,,,,,
+GPU,205,NVIDIA,GeForce RTX 4060,28500,,70.0,115.0,240.0,,,,,,,,,,,,,,,,
+GPU,206,AMD,Radeon RX 7600 XT,33500,,75.0,190.0,267.0,,,,,,,,,,,,,,,,
+GPU,207,NVIDIA,GeForce RTX 4060 Ti,38500,,78.0,160.0,250.0,,,,,,,,,,,,,,,,
+GPU,208,AMD,Radeon RX 7800 XT,49000,,88.0,263.0,300.0,,,,,,,,,,,,,,,,
+GPU,209,NVIDIA,GeForce RTX 4070 Super,62000,,91.0,220.0,267.0,,,,,,,,,,,,,,,,
+GPU,210,NVIDIA,GeForce RTX 4080 Super,105000,,98.0,320.0,304.0,,,,,,,,,,,,,,,,
+Motherboard,301,MSI,PRO H610M-G,8500,LGA1700,,,,DDR4,mATX,,,,,,,,,,,,,,
+Motherboard,302,Gigabyte,B760M DS3H DDR4,11500,LGA1700,,,,DDR4,mATX,,,,,,,,,,,,,,
+Motherboard,303,ASUS,PRIME B760-PLUS,16500,LGA1700,,,,DDR5,ATX,,,,,,,,,,,,,,
+Motherboard,304,MSI,B550M PRO-VDH WIFI,10500,AM4,,,,DDR4,mATX,,,,,,,,,,,,,,
+Motherboard,305,Gigabyte,B550 AORUS ELITE V2,13500,AM4,,,,DDR4,ATX,,,,,,,,,,,,,,
+Motherboard,306,MSI,PRO B650M-A WIFI,18500,AM5,,,,DDR5,mATX,,,,,,,,,,,,,,
+Motherboard,307,ASUS,TUF GAMING B650-PLUS,22000,AM5,,,,DDR5,ATX,,,,,,,,,,,,,,
+RAM,501,Crucial,16GB DDR4 3200MHz Kit,3200,,,,,DDR4,,16.0,3200.0,,,,,,,,,,,,
+RAM,502,Corsair,Vengeance LPX 16GB DDR4,3800,,,,,DDR4,,16.0,3200.0,,,,,,,,,,,,
+RAM,503,G.Skill,Ripjaws V 32GB DDR4 Kit,6500,,,,,DDR4,,32.0,3200.0,,,,,,,,,,,,
+RAM,504,Kingston,FURY Beast 16GB DDR5,5200,,,,,DDR5,,16.0,5200.0,,,,,,,,,,,,
+RAM,505,Corsair,Vengeance 32GB DDR5 Kit,9500,,,,,DDR5,,32.0,6000.0,,,,,,,,,,,,
+RAM,506,G.Skill,Flare X5 32GB DDR5 Kit,10500,,,,,DDR5,,32.0,6000.0,,,,,,,,,,,,
+PSU,401,Corsair,CV550 550W,4500,,,,,,,,,550.0,,,,,,,,,,,
+PSU,402,Cooler Master,MWE 650 Bronze V2,6200,,,,,,,,,650.0,,,,,,,,,,,
+PSU,403,DeepCool,PK750D 750W,7200,,,,,,,,,750.0,,,,,,,,,,,
+PSU,404,Corsair,RM850e 850W,11500,,,,,,,,,850.0,,,,,,,,,,,
+PSU,405,MSI,MAG A850GL 850W,10500,,,,,,,,,850.0,,,,,,,,,,,
+PSU,406,Corsair,RM1000e 1000W,16500,,,,,,,,,1000.0,,,,,,,,,,,
+Storage,601,Kingston,A400 SATA SSD,2800,,,,,,,480.0,,,SATA SSD,,,,,,,,,,
+Storage,602,Crucial,BX500 SATA SSD,5200,,,,,,,1000.0,,,SATA SSD,,,,,,,,,,
+Storage,603,WD,Blue SN580 NVMe SSD,6500,,,,,,,1000.0,,,NVMe SSD,,,,,,,,,,
+Storage,604,Samsung,990 EVO NVMe SSD,14500,,,,,,,2000.0,,,NVMe SSD,,,,,,,,,,
+Storage,605,Seagate,Barracuda HDD,4800,,,,,,,2000.0,,,HDD,,,,,,,,,,
+Storage,606,WD,Blue HDD,3200,,,,,,,1000.0,,,HDD,,,,,,,,,,
+Cooler,701,DeepCool,AG400,2200,,,,,,,,,,,"AM4,AM5,LGA1700",220.0,150.0,,,,,,,
+Cooler,702,Cooler Master,Hyper 212 Black Edition,3600,,,,,,,,,,,"AM4,AM5,LGA1700",150.0,152.0,,,,,,,
+Cooler,703,DeepCool,AK400,2800,,,,,,,,,,,"AM4,AM5,LGA1700",220.0,155.0,,,,,,,
+Cooler,704,Noctua,NH-U12S redux,5200,,,,,,,,,,,"AM4,AM5,LGA1700",150.0,158.0,,,,,,,
+Cabinet,801,Ant Esports,ICE-110,2800,,,,,,,,,,,,,,"ATX,mATX,ITX",300.0,160.0,,,,
+Cabinet,802,Corsair,4000D Airflow,8500,,,,,,,,,,,,,,"ATX,mATX,ITX",360.0,170.0,,,,
+Cabinet,803,NZXT,H5 Flow,7500,,,,,,,,,,,,,,"ATX,mATX,ITX",365.0,165.0,,,,
+Cabinet,804,Cooler Master,Q300L,4200,,,,,,,,,,,,,,"mATX,ITX",360.0,159.0,,,,
+Monitor,901,LG,UltraGear 24GN60R,11500,,,,,,,,,,,,,,,,,1920x1080,144.0,24.0,
+Monitor,902,Acer,Nitro VG240Y,12500,,,,,,,,,,,,,,,,,1920x1080,165.0,24.0,
+Monitor,903,Samsung,Odyssey G5 27-inch,22000,,,,,,,,,,,,,,,,,2560x1440,144.0,27.0,
+Monitor,904,Dell,SE2422H,8500,,,,,,,,,,,,,,,,,1920x1080,75.0,24.0,
+Keyboard,1001,Logitech,K120,700,,,,,,,,,,Membrane,,,,,,,,,,Wired
+Keyboard,1002,Redragon,K552 Kumara,2800,,,,,,,,,,Mechanical,,,,,,,,,,Wired
+Keyboard,1003,Corsair,K55 RGB PRO,3900,,,,,,,,,,Membrane,,,,,,,,,,Wired
+Keyboard,1004,Logitech,K380,2800,,,,,,,,,,Membrane,,,,,,,,,,Bluetooth
+Mouse,1101,Logitech,G102 Lightsync,1400,,,,,,,,,,Gaming,,,,,,,,,,Wired
+Mouse,1102,Razer,DeathAdder Essential,1600,,,,,,,,,,Gaming,,,,,,,,,,Wired
+Mouse,1103,Redragon,M711 Cobra,1800,,,,,,,,,,Gaming,,,,,,,,,,Wired
+Mouse,1104,Logitech,M331 Silent Plus,1700,,,,,,,,,,Office,,,,,,,,,,Wireless
+Headset,1201,Logitech,H111,850,,,,,,,,,,Stereo,,,,,,,,,,Wired
+Headset,1202,HyperX,Cloud Stinger 2,4200,,,,,,,,,,Gaming,,,,,,,,,,Wired
+Headset,1203,JBL,Quantum 100,2300,,,,,,,,,,Gaming,,,,,,,,,,Wired
+Speakers,1301,Logitech,Z120,1400,,,,,,,,,,2.0 Stereo,,,,,,,,,,Wired
+Speakers,1302,Creative,Pebble 2.0,2200,,,,,,,,,,2.0 Stereo,,,,,,,,,,USB
+Speakers,1303,F&D,A110,2100,,,,,,,,,,2.1 Stereo,,,,,,,,,,Wired
+Webcam,1401,Logitech,C270,1900,,,,,,,,,,,,,,,,,720p,,,USB
+Webcam,1402,Lenovo,300 FHD,2800,,,,,,,,,,,,,,,,,1080p,,,USB
+Webcam,1403,Logitech,C920 HD Pro,6500,,,,,,,,,,,,,,,,,1080p,,,USB
